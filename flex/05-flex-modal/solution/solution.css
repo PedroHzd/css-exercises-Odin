@@ -74,8 +74,8 @@ button.cancel {
 }
 
 .icon {
-  /* this keeps the icon from getting smashed by the text */
-  flex-shrink: 0;
+    /*this keeps the icon from getting smashed by the text */
+  flex: none;
 }
 
 .header {
